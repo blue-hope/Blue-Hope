@@ -8,6 +8,6 @@ I am a developer who is passionate about contributing to open source 😄 and tr
 
 
 
-<img width="400" align="right" alt="GIF" src="https://user-images.githubusercontent.com/38323921/118517120-e8366b00-b771-11eb-9353-99f959408d86.gif" />
+<img width="350" align="right" alt="GIF" src="https://user-images.githubusercontent.com/38323921/118517120-e8366b00-b771-11eb-9353-99f959408d86.gif" />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true)
