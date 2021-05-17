@@ -7,4 +7,4 @@ Hi there, I'm **Dave Kwon**, a **Backend Engineer** 🚀 on **Mathpresso**.
 
 I am a developer who is passionate about contributing to open source 😄 and tries to think from the perspective of users 😎 while developing products. 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
