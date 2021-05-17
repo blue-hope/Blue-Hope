@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey 👋, I'm Blue-Hope (Dave Kwon)
+<br />
 
-<!--
-**Blue-Hope/Blue-Hope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm **Dave Kwon**, a **Backend Engineer** 🚀 on **Mathpresso**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a developer who is passionate about contributing to open source 😄 and tries to think from the perspective of users 😎 while developing products. 
+
+
+
+<img width="400" align="right" alt="GIF" src="https://user-images.githubusercontent.com/38323921/118517120-e8366b00-b771-11eb-9353-99f959408d86.gif" />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true)
