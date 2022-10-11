@@ -5,4 +5,4 @@
 
 Hi there, I'm **Dave Kwon**, a **Backend Engineer** 🚀 on **Mathpresso**.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![github stats](https://github-readme-stats-rosy-delta.vercel.app/api?username=blue-hope&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
